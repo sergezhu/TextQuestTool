@@ -1,0 +1,10 @@
+*
+Assets/Scripts/Book/Tools/NarrativeEditor/Editor/**/*
+!*/
+!/.gitignore
+!/README.md
+!/readme/*
+!Assets/Scripts/Book/Tools/NarrativeEditor/CustomInspectorsViews/**/*.cs
+!Assets/Scripts/Book/Tools/NarrativeEditor/Editor/NarrativeEditor.cs
+
+.idea
